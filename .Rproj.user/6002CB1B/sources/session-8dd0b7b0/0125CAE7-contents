@@ -13,7 +13,7 @@
             </p>
             <div class="extra-links">
                 <span class="hint--bottom bottom-link" aria-label="Email">
-                    <a href="mailto:{{ site.email }}"><i class="head-icon fas fa-envelope" style="color: white;"></i></a>
+                    <a href="mailto:{{ site.email }}"><i class="head-icon fas fa-envelope" style="color: white; font-size: 36px;"></i></a>
                 </span>
                 <span class="hint--bottom bottom-link" aria-label="GitHub">
                     <a href="https://github.com/{{ site.github_username }}"><i class="head-icon fab fa-github" style="color: white;"></i></a>
