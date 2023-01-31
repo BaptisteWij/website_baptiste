@@ -1,19 +1,17 @@
 {
-    "id": "FF141CC8",
-    "path": "~/Documents/Github/website_baptiste/_includes/skills.html",
-    "project_path": "_includes/skills.html",
-    "type": "html",
-    "hash": "0",
+    "id": "AD3B7AF3",
+    "path": "~/Documents/Github/website_baptiste/README.md",
+    "project_path": "README.md",
+    "type": "markdown",
+    "hash": "4116501119",
     "contents": "",
     "dirty": false,
-    "created": 1675135818171.0,
+    "created": 1675134612360.0,
     "source_on_save": false,
-    "relative_order": 5,
+    "relative_order": 1,
     "properties": {
         "source_window_id": "",
-        "Source": "Source",
-        "cursorPosition": "10,162",
-        "scrollLine": "11"
+        "Source": "Source"
     },
     "folds": "",
     "lastKnownWriteTime": 1675119854,
