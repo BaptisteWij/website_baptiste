@@ -6,7 +6,7 @@
                 I'd love to hear from you! I'm open to collaborations on anything in the realm of landscape ecology. 
             </p>
             <p class="paragraph-text justify-text">
-                Please feel free to write to me: <a href="mailto:{{ site.email }}">{{ site.email }}
+                Please feel free to write to me: <a href="mailto:{{ site.email }}">{{ site.email }}</a>
             </p>
             <p class="paragraph-text justify-text">
                 Read my papers on my <a href="https://scholar.google.com/citations?user=dNPdbJcAAAAJ&hl=en">Google scholar</a> or on <a href="https://www.researchgate.net/profile/Baptiste-Wijas">ResearchGate</a>
